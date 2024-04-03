@@ -7,3 +7,6 @@ Git is a distributed version control system that helps developers track changes 
 GitHub is a web-based platform built around Git that provides hosting for Git repositories. It offers a range of collaboration features such as pull requests, issues tracking, and project management tools. GitHub allows developers to easily share their code with others, contribute to open-source projects, and showcase their work. It has become a central hub for developers to collaborate and build software together.
 
 In summary, Git is the version control system that tracks changes in code, while GitHub is a platform that hosts Git repositories and provides collaboration tools for developers.
+
+## GitHub Actions
+GitHub actions is used for automating workflow and CI/CD piline automation.
